@@ -1,2 +1,2 @@
 print("conected--??")
-print("ddqzzzzqoe")
+print("c")
