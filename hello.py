@@ -1,2 +1,2 @@
 print("xaq--??")
-print("zzccc")
+print("c")
