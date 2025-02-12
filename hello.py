@@ -1,2 +1,2 @@
-print("xaq--??")
+print("xaq-?")
 print("c")
