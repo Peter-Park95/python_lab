@@ -1,2 +1,2 @@
-print("xzzacczzzczzzzzcxccq-?")
+print("-?")
 print("c")
