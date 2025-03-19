@@ -1,2 +1,2 @@
 print("-?")
-print("c")
+print("cz")
